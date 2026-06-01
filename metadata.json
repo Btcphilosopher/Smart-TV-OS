@@ -1,0 +1,6 @@
+{
+  "name": "Smart TV OS Layer",
+  "description": "Unified platform for Smart TV apps, media playback, remote input simulations, profile sync, and smart home IoT control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
